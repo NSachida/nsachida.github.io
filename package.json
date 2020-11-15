@@ -1,3 +1,19 @@
-"publishConfig": { "registry": "https://npm.pkg.github.com/" }
-npm login --registry=https://npm.pkg.github.com/
-npm publish
+{
+  "name": "github-packages-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nsachida/github-packages-node.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@Nsachida"
+  }
+}
