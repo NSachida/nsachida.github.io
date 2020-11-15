@@ -8,10 +8,10 @@
 
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "mit",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Nsachida/github-packages-node.git"
+    "type": "github",
+    "url": "https://github.com/Nsachida/nsachida.github.io"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@Nsachida"
